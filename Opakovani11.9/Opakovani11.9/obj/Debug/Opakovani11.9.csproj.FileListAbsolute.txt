@@ -8,3 +8,15 @@ G:\prg\Opakovani11.9\Opakovani11.9\obj\Debug\Opakovani11.9.csproj.GenerateResour
 G:\prg\Opakovani11.9\Opakovani11.9\obj\Debug\Opakovani11.9.csproj.CoreCompileInputs.cache
 G:\prg\Opakovani11.9\Opakovani11.9\obj\Debug\Opakovani11.9.exe
 G:\prg\Opakovani11.9\Opakovani11.9\obj\Debug\Opakovani11.9.pdb
+C:\Users\hynko\Source\Repos\OpakovaniUkol1\Opakovani11.9\Opakovani11.9\bin\Debug\Opakovani11.9.exe.config
+C:\Users\hynko\Source\Repos\OpakovaniUkol1\Opakovani11.9\Opakovani11.9\bin\Debug\Opakovani11.9.exe
+C:\Users\hynko\Source\Repos\OpakovaniUkol1\Opakovani11.9\Opakovani11.9\bin\Debug\Opakovani11.9.pdb
+C:\Users\hynko\Source\Repos\OpakovaniUkol1\Opakovani11.9\Opakovani11.9\obj\Debug\Opakovani11.9.csproj.AssemblyReference.cache
+C:\Users\hynko\Source\Repos\OpakovaniUkol1\Opakovani11.9\Opakovani11.9\obj\Debug\Opakovani11.9.csproj.SuggestedBindingRedirects.cache
+C:\Users\hynko\Source\Repos\OpakovaniUkol1\Opakovani11.9\Opakovani11.9\obj\Debug\Opakovani11._9.Form1.resources
+C:\Users\hynko\Source\Repos\OpakovaniUkol1\Opakovani11.9\Opakovani11.9\obj\Debug\Opakovani11._9.Properties.Resources.resources
+C:\Users\hynko\Source\Repos\OpakovaniUkol1\Opakovani11.9\Opakovani11.9\obj\Debug\Opakovani11.9.csproj.GenerateResource.cache
+C:\Users\hynko\Source\Repos\OpakovaniUkol1\Opakovani11.9\Opakovani11.9\obj\Debug\Opakovani11.9.csproj.CoreCompileInputs.cache
+C:\Users\hynko\Source\Repos\OpakovaniUkol1\Opakovani11.9\Opakovani11.9\obj\Debug\Opakovani11.9.exe
+C:\Users\hynko\Source\Repos\OpakovaniUkol1\Opakovani11.9\Opakovani11.9\obj\Debug\Opakovani11.9.pdb
+C:\Users\hynko\Source\Repos\OpakovaniUkol1\Opakovani11.9\Opakovani11.9\obj\Debug\Opakovani11._9.Form2.resources
